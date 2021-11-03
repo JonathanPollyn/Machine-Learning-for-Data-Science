@@ -4,8 +4,8 @@ This repository is based on my data science master's degree program with Grand C
 ## Requirements
 Python program is the programming language used for this class. All code is built using a jupyter notebook.
 
-##Installation
-Python download: https://www.python.org/downloads/
+##Installation                                                                                                                                                                
+Python download: https://www.python.org/downloads/                                                                                                                               
 Anaconda download: https://www.anaconda.com/products/individual
 
 ## Folders
@@ -19,5 +19,9 @@ Topic 7 -  Unsupervised Learning
 Topic 8 -  Ensemble Methods
 
 ## Usage
-Download or clone the folder, then create a path in your local machine to source the data. 
-Next, launch anaconda and open the file using a jupyter notebook. 
+1. Download or clone the folder
+2. Create a path in your local machine that will be the source for the dataset
+3. Launch anaconda
+4. Open the file using a jupyter notebook
+5. Change the path of the data to your new path
+6. Run the code 
