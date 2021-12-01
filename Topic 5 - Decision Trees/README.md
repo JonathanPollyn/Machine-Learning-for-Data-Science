@@ -12,7 +12,7 @@ Python program is the programming language used for this class. All code is buil
 #Installation    
 
 Python download: https://www.python.org/downloads/
-Anaconda download: https://www.anaconda.com/products/individual
+Anaconda download: https://www.anaconda.com/products/individual                                                                                                               
 pip install fuzzytree
 
 #Files
