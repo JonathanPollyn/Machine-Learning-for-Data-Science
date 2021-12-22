@@ -11,15 +11,7 @@ Python download: https://www.python.org/downloads/ Anaconda download: https://ww
 conda install -c conda-forge xgboost
 
 # Dataset
-subject101.dat
-subject102.dat
-subject103.dat
-subject104.dat
-subject105.dat
-subject106.dat
-subject107.dat
-subject108.dat
-subject109.dat
+https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring
 
 # Files
 Topic 8 - Ensemble Methods.ipynb
