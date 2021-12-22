@@ -14,7 +14,7 @@ conda install -c conda-forge xgboost
 https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring
 
 # Files
-Topic 8 - Ensemble Methods.ipynb
+Topic 8 - Ensemble Methods.ipynb                                                                                                                                                  
 Topic 8 Technical Report.pdf
 # Usage
 Download or clone the folder Launch anaconda Open the file using a jupyter notebook Run the code
