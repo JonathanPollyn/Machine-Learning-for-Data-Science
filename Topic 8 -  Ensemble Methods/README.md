@@ -7,7 +7,7 @@ Python program is the programming language used for this project. All code is bu
 
 # Installation
 
-Python download: https://www.python.org/downloads/ Anaconda download: https://www.anaconda.com/products/individual                                                               pip install matplotlip                                                                                                                                                            
+Python download: https://www.python.org/downloads/ Anaconda download: https://www.anaconda.com/products/individual                                                                                       pip install matplotlip                                                                                                                                                            
 conda install -c conda-forge xgboost
 
 # Dataset
